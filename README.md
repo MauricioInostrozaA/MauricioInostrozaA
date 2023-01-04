@@ -13,6 +13,7 @@ I'm a 24 years old Informatics and Telecommunications Engineer student. Interest
   * TailwindCSS
   * Firebase
   * Godot
+  * Blender
   
 ### Skills
 
