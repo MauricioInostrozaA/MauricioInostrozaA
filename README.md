@@ -1,10 +1,12 @@
 Mauricio Inostroza
 ===================================
 
-Informatics Engineer student
+Informatics Engineer
 ----------------------------
 
-I'm a 25years old Informatics and Telecommunications Engineer student. Interested in web and game development.
+Just a guy.
+
+Interested in development.
 
 * 🌍  I'm based in Santiago, Chile
 * 🧠  I'm learning Vue.js
